@@ -1,0 +1,303 @@
+.footer1
+{
+    font-family: Consolas;
+    font-size: 15px;
+    font-style: italic;
+    color: black;
+    background-color: #FF9A9A8a;
+    margin-top: 24%;
+    width: 99%;
+    top: 129%;
+    position: static;
+    margin-left: 0.5%;
+    margin-right: -0.5%;
+    position: absolute;
+}
+header
+{
+    font-family: "Bahnschrift";
+    color: #FF5858;
+    background-color: #FFFFFF;
+    width: 101%;
+    text-align: center;
+    background-image: url("logo graficzne.png");
+    background-size: cover;
+    position: fixed;
+    height: 90px;
+    margin-top: -12px;
+    margin-left: -12px;
+    border: #FFFFFF solid 5px;
+}
+.body1
+{
+    height: 40%;
+    width: 99%;
+    background-image: url("Background_Finished.png");
+    background-size: cover;
+    position: fixed;
+}
+.html
+{
+    height: 100%;
+    width: 100%;
+}
+.titlediv
+{
+    border: 12px #FFFFFF double;
+    font-size: 50px;
+    text-align: center;
+    font-family: "Bahnschrift";
+    font-style: bold;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 21%;
+    color: #FFFFFF;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #FFAEAE8E;
+}
+.dropdown
+{
+    display:contents;
+}
+.dropdown-content
+{
+    display: none;
+    text-align: center;
+    width: 12%;
+    margin-right: 44%;
+    margin-left: 44%;
+}
+.dropdown-content a:hover
+{
+    background-color: #ddd;
+}
+.dropdown:hover .dropdown-content
+{
+    display: block;
+
+}
+.a1
+{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    font-style: bold;
+    font-family: "Bahnschrift";
+}
+.a2
+{
+text-decoration: none;
+color:rgb(255, 255, 255);
+font-size: 27px;
+font-style: bold;
+font-family: "Bahnschrift";
+}
+h1
+{
+    color: #ffffff;
+    font-family: "Bahnschrift";
+    font-style: bold;
+    font-size: 55px;
+}
+.divright
+{
+    float: right;
+    background-color: #FFAEAE8E;
+    color: #FFFFFF;
+    border: double #FFFFFF 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.divright1
+{
+    float: right;
+    background-color: #FFAEAE8E;
+    color: #FFFFFF;
+    border: double #FFFFFF 3px;
+    margin-left: 3px;
+    margin-right: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.divright:hover
+{
+    background-color: #FF5858
+}
+.divright1:hover
+{
+    background-color: #FF5858
+}
+.body2
+{
+    height: 100%;
+    width: 100%;
+    background-color: #ff3b3b;
+    position: fixed;
+}
+.body3
+{
+    height: 100%;
+    width: 100%;
+    background-color: #ff5858;
+    position: fixed;
+}
+.p1
+{
+    font-family: "Bahnschrift";
+    color: white;
+    font-style: bold;
+    font-size: 25px;
+}
+.formdiv
+{
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+    font-family: "Bahnschrift";
+    font-size: 30px;
+    font-style: bold;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+.a3
+{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    font-style: bold;
+    font-family: "Bahnschrift";
+}
+.a3:hover
+{
+    background-color: gray;
+}
+li
+{
+    font-family: "Bahnschrift";
+    color: white;
+    font-style: bold;
+    font-size: 25px;
+}
+.a4
+{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    font-style: bold;
+    font-family: "Bahnschrift";
+}
+.a4:hover
+{
+    background-color: #ddd;
+}
+td
+{
+    font-family: "Bahnschrift";
+    color: white;
+    font-style: bold;
+    font-size: 25px;
+    text-align: center;
+    padding: 2px;
+    border: #FFFFFF solid;
+    background-color: #FF5858;
+}
+table
+{
+    border: #FFFFFF solid;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.h1
+{
+    color: #ffffff;
+    font-family: "Bahnschrift";
+    font-style: bold;
+    font-size: 55px;
+    text-align: center;
+}
+.img1
+{
+    margin-right: 0.5%;
+    margin-left: 35%;
+    position: fixed;
+}
+.p2
+{
+    font-family: "Bahnschrift";
+    color: white;
+    font-style: bold;
+    font-size: 40px;
+    text-align: center;
+}
+.p3
+{
+    color: white;
+    font-style: bold;
+    font-family: "Bahnschrift";
+    font-size: 70px;
+    width: fit-content;
+    border: black solid 5px;
+}
+.img2
+{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2%;
+    position: fixed;
+    margin-top: -28%;
+}
+.p4
+{
+    color: white;
+    font-style: bold;
+    font-family: "Bahnschrift";
+    font-size: 70px;
+    width: fit-content;
+    border: black solid 5px;
+    text-align: right;
+    margin-left: 95%;
+    margin-right: 2%;
+}
+.div69
+{
+    color: white;
+    font-style: bold;
+    font-family: "Bahnschrift";
+    font-size: 70px;
+    width: fit-content;
+    border: rgb(255, 255, 255) solid 5px;
+    text-align: right;
+    margin-left: 95%;
+    margin-right: 2%;
+    margin-top: -3.5%;
+}
+.div68
+{
+    color: white;
+    font-style: bold;
+    font-family: "Bahnschrift";
+    font-size: 70px;
+    width: fit-content;
+    border: rgb(255, 255, 255) solid 5px;
+    margin-top: 25%;
+}
+.nd 
+{
+    text-decoration: none;
+    color: white;
+}
+.div68:hover
+{
+    background-color: #ddd;
+}
+.div69:hover
+{
+    background-color: #ddd;
+}
+
